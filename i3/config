@@ -109,7 +109,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 ### Gaps ###
-gaps inner 10
+gaps inner 9
 
 ### Borders ###
 default_border pixel $wm_setting_border_size
