@@ -109,6 +109,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 ### Gaps ###
+gaps top 41
 gaps inner 9
 
 ### Borders ###
